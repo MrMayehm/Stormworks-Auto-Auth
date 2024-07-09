@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<mission>
+    <name>Auto Auth</name>
+    <description>This will allow you to auto auth players to your server.</description>
+    
+    <!-- Other mission settings and configurations -->
+    
+    <scripts>
+        <script>
+            <![CDATA[
+            -- Reference the Lua script
+            dofile("scripts/auth_script.lua")
+            ]]>
+        </script>
+    </scripts>
+</mission>
