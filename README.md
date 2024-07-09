@@ -12,8 +12,7 @@ MAKE SURE YOUR SERVER IS OFFLINE BEFORE STARTING THIS PROJECT.
 1. Unzip and place folder on desktop to be moved to the server.
 2. Locate you server files and location your ROM folder and open this folder.
 3. Next locate your DATA folder, open this folder as well. 
-4. There you should see a missions folder. Open that, Drag the file you just put on your desktop name Auto Auth there and remove this 
-   Read Me file. 
+4. There you should see a missions folder. Open that, Drag the file you just put on your desktop name Auto Auth there.
 5. Make sure to copy the location of the folder and save it for later. you will need it for the next step. 
    (Example. /rom/data/missions/auto_auth)
 6. Go back to the main server file. 
